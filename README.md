@@ -8,7 +8,7 @@ Smart Waste Management System For Metropolitan Cities
 * GEETHA E
 ### Description:
 
-[![Watch the video](https://i.imgur.com/njyfVPv.jpg)](https://youtu.be/S62pcmaetEc)
+[![Watch the video](https://i.imgur.com/njyfVPv.jpg)](https://youtu.be/S62pcmaetEc)https://youtu.be/DPzxJUSouzE
 __please click on the image to watch the demo video__
 #### There are certain assumptions assumed by us, They are
 * The length of the trash can is assumed to be 200 cm.
